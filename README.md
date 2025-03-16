@@ -1,4 +1,37 @@
-## Hi there 👋
+### 👨‍💻 Estudante de Ciência da Computação | Desenvolvedor Back-End | Focado em Soluções Eficientes
+
+### Sou um estudante de **Bacharelado em Ciência da Computação** pela UFABC, apaixonado por resolver problemas e otimizar processos através da programação.
+
+---
+
+🏀🏐Apaixonado por esportes e tecnologia.
+
+🎥Amante de séries e filmes.
+
+🎹Fã de música.
+
+Atualmente focado no aprendizado de Java Spring.
+
+---
+
+<div sytle='display: inline'>
+ <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+ <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+ <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+ <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+ <img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
+</div>
+
+---
+
+Caso queira entrar em contato comigo:
+           
+<div style="display: inline">
+<a href="https://www.linkedin.com/in/matheus-q/"><img style="width: 127px; height: auto;" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mathuesquerino91@gmail.com?subject=Ola, Matheus"><img  style="width: 120px; height: auto;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
 <!--
 **matheus-q14/matheus-q14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
