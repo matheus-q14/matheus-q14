@@ -4,11 +4,11 @@
 
 ---
 
-🏀🏐Apaixonado por esportes e tecnologia.
+🏀🏐 Apaixonado por esportes e tecnologia.
 
-🎥Amante de séries e filmes.
+🎥 Amante de séries e filmes.
 
-🎹Fã de música.
+🎹 Fã de música.
 
 Atualmente focado no aprendizado de Java Spring.
 
