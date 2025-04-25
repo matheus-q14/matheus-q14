@@ -14,8 +14,6 @@ Atualmente focado no aprendizado de Java Spring.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-q14&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-![snake gif](https://github.com/matheus-q14/matheus-q14/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
