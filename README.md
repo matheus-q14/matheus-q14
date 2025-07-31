@@ -1,4 +1,4 @@
-### 👨‍💻 Estudante de Ciência da Computação | Desenvolvedor Back-End | Focado em Soluções Eficientes
+### 👨‍💻 Estudante de Ciência e Tecnologia | Desenvolvedor Back-End | Focado em Soluções Eficientes
 
 ### Sou um estudante de **Bacharelado em Ciência da Computação** pela UFABC, apaixonado por resolver problemas e otimizar processos através da programação.
 
